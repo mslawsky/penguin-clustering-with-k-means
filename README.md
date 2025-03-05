@@ -117,14 +117,13 @@ This project demonstrates Python skills for data analysis:
 ## Future Work & Enhancements 🚀
 
 1.  **Model Refinement:**
-    *   Incorporate Location and Time of Year
+    * Incorporate Location and Time of Year
     * Perform against other models for increased confidence
     * Include more specific biological features
 
 2.  **External Factor Integration:**
 
     * Incorporate outside features
-
     * Impact on current climate conditions
     * Analyze the impact on species traits
 
@@ -134,7 +133,7 @@ This project demonstrates Python skills for data analysis:
 
 1.  **Python Analysis Files**
 
-    *   [Penguin K-Means Notebook](penguin-k-means.ipynb) (IPYNB)
+    *   [Penguin K-Means Notebook](penguin-k-means.py) (PY)
 2.  **Datasets**
 
     *   [Original Dataset](penguins.csv) (CSV)
