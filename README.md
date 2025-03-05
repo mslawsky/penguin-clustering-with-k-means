@@ -1,4 +1,4 @@
-# Penguin Clustering with K-Means 🐧
+# Penguin Clustering with K-Means <img src="penguin.png" alt="Penguin" width="30" height="30">
 
 **Unveiling Species and Sex Patterns with Unsupervised Learning**
 
